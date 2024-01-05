@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href="mailto:sisahu@student.ethz.ch"> <img src="images/navigation_icon/email.png"> </a>
+    <i class="fa-solid fa-envelope"></i>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
